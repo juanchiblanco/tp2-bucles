@@ -4,11 +4,13 @@ Este proyecto corresponde al Trabajo Práctico 2, donde se desarrollan ejercicio
 
 ## 🧠 Descripción
 
-Consiste en una serie de consignas enfocadas en el uso de **bucles** en JavaScript, trabajando principalmente con:
+Consiste en una serie de consignas enfocadas en el uso de **bucles**, **variables** y **condicionales** en JavaScript, trabajando principalmente con:
 
 - `while`
 - `do...while`
 - `for`
+- `if`
+- `else`
 
 Cada ejercicio implementa lógica para resolver distintos problemas repetitivos, reforzando el control de flujo y la práctica con condiciones.
 

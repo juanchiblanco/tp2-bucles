@@ -4,7 +4,8 @@ do {
   i = prompt("Ingrese un numero (Cancelar para salir)");
 
   if (i === null || isNaN(i) ) {
-    alert("Fin del programa. La suma total es: " + suma)
+    alert("Fin del programa. La suma total es: " + suma);
+    break;
   }
 
   const numero = parseInt(i);

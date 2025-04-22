@@ -4,4 +4,4 @@ const resto = dni % 23
 const letras = "TRWAGMYFPDXBNJZSQVHLCKE"
 const letra = letras.charAt(resto);
 
-document.writeln(`DNI: ${dni} - Letra: ${letra}`);
+alert(`DNI: ${dni} - Letra: ${letra}`);
